@@ -1,5 +1,5 @@
 load.js 动态载入css和js文件，简单方便，适合模块化设计。
-
+说明：https://ruchu.me/single/ew0uzmcg7n.html
 
 动态载入js文件
 ```
