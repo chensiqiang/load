@@ -1,4 +1,11 @@
-//引入css或js文件
+/**
+ * load.js 动态引入css或js文件
+ * 
+ * @author  ruchu <ruchume@qq.com>
+ * @date 2017.12.02
+ * @example
+ * load('file.js');
+ */
 var load = (function (arg1, arg2){
 	var baseUrl=document.scripts;
 	baseUrl=baseUrl[baseUrl.length-1].src.substring(0,baseUrl[baseUrl.length-1].src.lastIndexOf("/")+1);
