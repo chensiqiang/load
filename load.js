@@ -5,6 +5,7 @@
  * @date 2017.12.02
  * @example
  * load('file.js');
+ *
  */
 var load = (function (arg1, arg2){
 	var baseUrl=document.scripts;
