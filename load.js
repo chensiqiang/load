@@ -1,7 +1,7 @@
 /**
  * load.js 动态引入css或js文件
  * 
- * @author  ruchu <ruchume@qq.com>
+ * @author ruchu <ruchume@qq.com>
  * @date 2017.12.02
  * @example
  * load('file.js');
